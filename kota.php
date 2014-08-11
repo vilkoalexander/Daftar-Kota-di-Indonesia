@@ -25,7 +25,8 @@ $indonesia = Array(
 										'Pematangsiantar',
 										'Sibolga',
 										'Gunung Sitoli',
-										'Kabanjahe'
+										'Kabanjahe',
+										'ddddd'
 							
 		))
 	)
